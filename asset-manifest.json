@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/CloudSS/static/css/main.7698c8fd.css",
+    "main.js": "/CloudSS/static/js/main.8cf68a16.js",
+    "static/js/787.49c08f55.chunk.js": "/CloudSS/static/js/787.49c08f55.chunk.js",
+    "static/media/testpic.jpg": "/CloudSS/static/media/testpic.c9156e27a71b9d75a420.jpg",
+    "static/media/comp.jpg": "/CloudSS/static/media/comp.15382ff69d2d693f1b57.jpg",
+    "static/media/building.jpg": "/CloudSS/static/media/building.9a14c27a713a07d2648c.jpg",
+    "static/media/hands.jpg": "/CloudSS/static/media/hands.3b5fb17e28385e9b6c86.jpg",
+    "static/media/cubelogo.webp": "/CloudSS/static/media/cubelogo.3f671f400d79130a84af.webp",
+    "static/media/agile.png": "/CloudSS/static/media/agile.ab984320acd8e2bda7c9.png",
+    "static/media/test1.jpg": "/CloudSS/static/media/test1.8732aa377888dc5873fb.jpg",
+    "static/media/team.png": "/CloudSS/static/media/team.1ed6c03dc253ad5dd34d.png",
+    "static/media/artech.png": "/CloudSS/static/media/artech.f98090f5bbbf48cde71f.png",
+    "static/media/soft.png": "/CloudSS/static/media/soft.35c136481aa438b3b139.png",
+    "static/media/logo.svg": "/CloudSS/static/media/logo.013c7fde38744c262fde6259cbcf9b1a.svg",
+    "static/media/a.png": "/CloudSS/static/media/a.cae2a3e9bde44624cde6.png",
+    "index.html": "/CloudSS/index.html",
+    "main.7698c8fd.css.map": "/CloudSS/static/css/main.7698c8fd.css.map",
+    "main.8cf68a16.js.map": "/CloudSS/static/js/main.8cf68a16.js.map",
+    "787.49c08f55.chunk.js.map": "/CloudSS/static/js/787.49c08f55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7698c8fd.css",
+    "static/js/main.8cf68a16.js"
+  ]
+}
